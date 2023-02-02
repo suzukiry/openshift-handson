@@ -1,1 +1,1 @@
-# OpenShift Pipelines
+# OpenShift UI
